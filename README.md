@@ -3,7 +3,6 @@
 
 ## Identitas
 | | |
-|---|---|
 | **Nama** | Arrumanta Ekna Luhkinasih |
 | **NRP** | 5027251044 |
 
