@@ -4,9 +4,8 @@
 ## Identitas
 | | |
 |---|---|
-| **Nama** | [NAMA] |
-| **NRP** | [NRP] |
-| **Kelas** | [KELAS] |
+| **Nama** | Arrumanta Ekna Luhkinasih |
+| **NRP** | 5027251044 |
 
 ---
 
