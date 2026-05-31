@@ -81,28 +81,28 @@ Script untuk backup semua hasil build.
 ### Dokumentasi Output
 
 #### kernel.sh - Kompilasi Kernel
-![kernel.sh output](dokumentasi/kernel_compile.png)
+![kernel.sh output](assets/soal_1/kernel_compile.png)
 
 #### single.sh - Single User Filesystem
-![single boot](dokumentasi/single_boot.png)
+![single boot](assets/soal_1/single_boot.png)
 
 #### multi.sh - Multi User Filesystem & Login
-![multi login](dokumentasi/multi_login.png)
+![multi login](assets/soal_1/multi_login.png)
 
 #### Internet Access (wget)
-![wget google](dokumentasi/wget_google.png)
+![wget google](assets/soal_1/wget_google.png)
 
 #### Package Manager (party)
-![party install](dokumentasi/party_install.png)
+![party install](assets/soal_1/party_install.png)
 
 #### FUSE
-![fuse demo](dokumentasi/fuse_demo.png)
+![fuse demo](assets/soal_1/fuse_demo.png)
 
 #### iso.sh - Bootable ISO & GRUB Menu
-![grub menu](dokumentasi/grub_menu.png)
+![grub menu](assets/soal_1/grub_menu.png)
 
 #### backup.sh - Backup
-![backup result](dokumentasi/backup_result.png)
+![backup result](assets/soal_1/backup_result.png)
 
 ---
 
@@ -195,25 +195,25 @@ cp os.img /mnt/c/Users/[USERNAME]/Desktop/os.img
 ### Dokumentasi Output
 
 #### Boot OS & Welcome Screen
-![welcome screen](dokumentasi/welcome.png)
+![welcome screen](assets/soal_2/welcome.png)
 
 #### check
-![check](dokumentasi/check.png)
+![check](assets/soal_2/check.png)
 
 #### add & sub
-![add sub](dokumentasi/add_sub.png)
+![add sub](assets/soal_2/add_sub.png)
 
 #### fac
-![fac](dokumentasi/fac.png)
+![fac](assets/soal_2/fac.png)
 
 #### season
-![season](dokumentasi/season.png)
+![season](assets/soal_2/season.png)
 
 #### triangle
-![triangle](dokumentasi/triangle.png)
+![triangle](assets/soal_2/triangle.png)
 
 #### clear & help
-![clear help](dokumentasi/clear_help.png)
+![clear help](assets/soal_2/clear_help.png)
 
 ---
 
